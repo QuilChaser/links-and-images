@@ -10,7 +10,7 @@ body {
   background-color: #f1f1f1; /* light grey */
 }
 
-.menubar {
+ul.menubar {
   list-style-type: none;
   margin: 0;
   padding: 0;
