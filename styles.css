@@ -37,3 +37,7 @@ li.menu a {
 li.menu a:hover {
   background-color: #111;
 }
+
+.active {
+  background-color: #dd0000;
+}
