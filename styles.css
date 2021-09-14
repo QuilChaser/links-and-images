@@ -24,7 +24,7 @@ ul.menubar {
 
 li.menu {
   float: left;
-  border-right: 1px solid #bbb;
+  border-right: 1px solid #777;
 }
 
 li.menu:last-child {
