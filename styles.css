@@ -42,6 +42,6 @@ li.menu a:hover {
   background-color: #dd0000;
 }
 
-.active a:hover {
-  background-color: #550000;
+li.active a:hover {
+  background-color: #500;
 }
