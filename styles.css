@@ -43,7 +43,7 @@ li.menu a:hover {
   background-color: #111;
 }
 
-.active {
+#active {
   background-color: #dd0000;
 }
 
